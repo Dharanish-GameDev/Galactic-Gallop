@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eed3c79481f321a43b15f33e4381db35, type: 3}
+  m_Name: AudioClips
+  m_EditorClassIdentifier: 
+  starCollectingSfx: {fileID: 8300000, guid: 081c67d51b10fff4692258be78126452, type: 3}
+  meteorSFX: {fileID: 8300000, guid: a40eb880ac620f34f928a22db82f1ff2, type: 3}
+  failSfx: {fileID: 8300000, guid: 7d32cf072df17d745b3eec4e8224c81d, type: 3}
+  sheildBreakSfx: {fileID: 8300000, guid: f47347ef398c7e74aa54dc3d035fd41c, type: 3}
+  gotPowerupSfx: {fileID: 8300000, guid: 896aeb8062fac5e47bcb9e6539ed6f78, type: 3}
